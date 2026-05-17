@@ -1,0 +1,80 @@
+{
+  "fuente": "CONEVAL 2020 — Pobreza municipal por grupo poblacional",
+  "url_fuente": "https://www.coneval.org.mx/Informes/Pobreza/Datos_abiertos/pobreza_municipal/grupos_pobla/grupos_poblacionales_2020.csv",
+  "anio": 2020,
+  "n_municipios": 212,
+  "poblacion_total": 8155225,
+  "promedios_estado": {
+    "pobreza": 61.14,
+    "plp": 66.67,
+    "ic_rezedu": 25.68,
+    "ic_asalud": 30.99,
+    "ic_segsoc": 67.9,
+    "ic_cv": 15.01,
+    "ic_sbv": 37.35,
+    "ic_ali": 22.86
+  },
+  "promedios_nacionales": {
+    "pobreza": 44.48,
+    "plp": 52.21,
+    "ic_rezedu": 16.33,
+    "ic_asalud": 28.34,
+    "ic_segsoc": 56.71,
+    "ic_cv": 9.41,
+    "ic_sbv": 27.56,
+    "ic_ali": 20.88
+  },
+  "indicadores_metadata": {
+    "pobreza": {
+      "nombre": "Pobreza total",
+      "categoria": "Pobreza",
+      "descripcion": "% de poblacion en pobreza multidimensional"
+    },
+    "plp": {
+      "nombre": "Por linea de pobreza",
+      "categoria": "Pobreza",
+      "descripcion": "% con ingreso inferior a la linea de pobreza por ingresos"
+    },
+    "ic_rezedu": {
+      "nombre": "Rezago educativo",
+      "categoria": "Educacion",
+      "descripcion": "% con carencia por rezago educativo"
+    },
+    "ic_asalud": {
+      "nombre": "Sin acceso a salud",
+      "categoria": "Salud",
+      "descripcion": "% con carencia por acceso a servicios de salud"
+    },
+    "ic_segsoc": {
+      "nombre": "Sin seguridad social",
+      "categoria": "Salud",
+      "descripcion": "% con carencia por acceso a seguridad social"
+    },
+    "ic_cv": {
+      "nombre": "Vivienda mala calidad",
+      "categoria": "Vivienda",
+      "descripcion": "% con carencia por calidad y espacios de la vivienda"
+    },
+    "ic_sbv": {
+      "nombre": "Sin servicios basicos",
+      "categoria": "Vivienda",
+      "descripcion": "% con carencia por servicios basicos en la vivienda"
+    },
+    "ic_ali": {
+      "nombre": "Sin acceso a alimentacion",
+      "categoria": "Alimentacion",
+      "descripcion": "% con carencia por acceso a la alimentacion"
+    }
+  },
+  "grupos_metadata": {
+    "Hombres": "Sexo",
+    "Mujeres": "Sexo",
+    "Rural": "Ambito",
+    "Urbano": "Ambito",
+    "Niñez (0-17)": "Edad",
+    "Jovenes (18-29)": "Edad",
+    "Adultos (30-64)": "Edad",
+    "Adultos mayores 65+": "Edad",
+    "Indigena": "Hablante"
+  }
+}
