@@ -132,4 +132,4 @@ El plan original del portafolio mencionaba "Dashboard en Power BI sobre salud o 
 
 ## Autor
 
-Israel Morán
+Israel Moran
