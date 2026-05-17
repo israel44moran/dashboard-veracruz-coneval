@@ -1,4 +1,11 @@
-# Pobreza, Salud y Educación en Veracruz
+﻿# Pobreza, Salud y Educación en Veracruz
+
+> ### 🚀 Probar la app en vivo
+>
+> **https://veracruz-coneval.streamlit.app**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://veracruz-coneval.streamlit.app)
+
 
 Dashboard interactivo que estudia los 212 municipios de Veracruz a partir de los indicadores oficiales de **CONEVAL 2020** (la medición municipal más reciente publicada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social). Incluye mapa coroplético, comparativa contra el promedio nacional, ranking municipal, correlación entre pobreza/educación/salud, y **desglose por grupo demográfico** (sexo, ámbito rural-urbano, edades, población indígena).
 
